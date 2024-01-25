@@ -19,6 +19,10 @@ This is a quick guide to help you run the Solar System program on your machine.
 
 The Solar System program is an interactive simulation of the solar system. It provides information about the planets and allows you to explore the universe.
 
+## Screenshots
+
+![Calculator Screenshot](/solarsystem.png)
+
 ## Setup
 
 ### Java Project
